@@ -1,0 +1,18 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "hoc nodejs tu so 0",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node sever.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Duy Haruno",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
